@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "versionCode": 11,
-  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.6/Samevia-android-1.2.6-test.apk",
-  "notes": "Login Google e atualização pelo próprio aplicativo estabilizados."
+  "version": "1.2.7",
+  "versionCode": 12,
+  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.7/Samevia-android-1.2.7-test.apk",
+  "notes": "Migração segura do banco local, navegação responsiva e fluxo inicial modularizados."
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "versionCode": 7,
-  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.2/Samevia-android-1.2.2-test.apk",
-  "notes": "Cadastro administrativo separado e sequência Anamnese, Avaliação e Evoluções."
+  "version": "1.2.3",
+  "versionCode": 8,
+  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.3/Samevia-android-1.2.3-test.apk",
+  "notes": "Cadastro corrigido: telefone, máscaras, busca de CEP, endereço completo e salvamento compatível com Android."
 }

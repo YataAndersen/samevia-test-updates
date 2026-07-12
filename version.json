@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "versionCode": 12,
-  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.7/Samevia-android-1.2.7-test.apk",
-  "notes": "Migração segura do banco local, navegação responsiva e fluxo inicial modularizados."
+  "version": "1.2.8",
+  "versionCode": 13,
+  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.8/Samevia-android-1.2.8-test.apk",
+  "notes": "Jornada clínica modular integrada, revisão antes da assinatura, adendos e migração local v8."
 }

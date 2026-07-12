@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "versionCode": 9,
-  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.4/Samevia-android-1.2.4-test.apk",
-  "notes": "Correção emergencial de inicialização após a 1.2.3. Instale por cima, sem desinstalar."
+  "version": "1.2.2",
+  "versionCode": 7,
+  "downloadUrl": "https://github.com/YataAndersen/samevia-test-updates/releases/download/v1.2.2/Samevia-android-1.2.2-test.apk",
+  "notes": "Canal temporariamente estabilizado na última versão comprovadamente funcional."
 }
